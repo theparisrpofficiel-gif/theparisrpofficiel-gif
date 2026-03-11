@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Roby360.Roby360" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theparisrpofficiel-gif.theparisrpofficiel-gif" />
 <div>
 <br/>
 <h3 align="center">💪 Developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
@@ -15,7 +15,7 @@
 <br>
 <div align="center">
   <a href="https://discord.com/users/996057570735312976">
-  <img src="https://lanyard.cnrad.dev/api/789802191149989908?theme=light&animated=true&borderRadius=10px&&idleMessage=Salut%20les%20devs." />
+  <img src="https://lanyard.cnrad.dev/api/996057570735312976?theme=light&animated=true&borderRadius=10px&&idleMessage=Salut%20les%20devs." />
   </a>
   <br/><br/><br/>
 </div>
